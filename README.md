@@ -1,2 +1,29 @@
-# Abu-Shubail
-For educational purpose 
+![zamaneen](https://github.com/user-attachments/assets/50121f86-8bb0-4b44-9e4a-f28bbc494bfd)
+![video](https://github.com/user-attachments/assets/7b1dfc90-a1ae-44de-be19-c21aeea3c4ad)
+[Short videos.html](https://github.com/user-attachments/files/22320307/Short.videos.html)
+<img width="256" height="256" alt="notice" src="https://github.com/user-attachments/assets/345e7b63-3564-400d-8d92-42333c5f8376" />
+[Notice.html](https://github.com/user-attachments/files/22320305/Notice.html)
+![muwaddah](https://github.com/user-attachments/assets/055e11c3-6421-4d43-91e8-f19fd1528bfb)
+![logo](https://github.com/user-attachments/assets/f51b859c-602a-4c5a-87e1-fe13d8977bf4)
+[Lectures.html](https://github.com/user-attachments/files/22320303/Lectures.html)
+![iraqiy](https://github.com/user-attachments/assets/9408d82e-4656-499b-83a9-4dfbf0aa60da)
+[index.html](https://github.com/user-attachments/files/22320301/index.html)
+![images - 2025-09-11T225300 724](https://github.com/user-attachments/assets/2afcf128-8d99-4e5d-b8b3-8804e0453182)
+![images - 2025-09-11T225137 365](https://github.com/user-attachments/assets/fbe76b74-192a-4878-95f0-cadde5fecea5)
+[Hau bio.html](https://github.com/user-attachments/files/22320298/Hau.bio.html)
+[Full videos.html](https://github.com/user-attachments/files/22320296/Full.videos.html)
+[Fatawoyi.html](https://github.com/user-attachments/files/22320294/Fatawoyi.html)
+[Eng bio.html](https://github.com/user-attachments/files/22320293/Eng.bio.html)
+[Darussa.html](https://github.com/user-attachments/files/22320292/Darussa.html)
+<img width="3264" height="2629" alt="contact us" src="https://github.com/user-attachments/assets/32b69b3f-b247-4492-a2b8-8b015ca10c94" />
+[Contact us.html](https://github.com/user-attachments/files/22320291/Contact.us.html)
+![bukhariy](https://github.com/user-attachments/assets/66fc016b-8ec2-4267-8cc4-d0210619eba2)
+![books](https://github.com/user-attachments/assets/23e7b371-a19b-489a-9dd6-00433c85b6d1)
+<img width="2827" height="3264" alt="biography" src="https://github.com/user-attachments/assets/3d14e30a-bfb6-4db0-9dd8-dded00db437a" />
+![baiquniyyah](https://github.com/user-attachments/assets/cb925afc-3d53-4811-9585-bd213db08a34)
+![audio](https://github.com/user-attachments/assets/ec1cc993-51b8-48f3-85a8-1e21ce389642)
+[Ara bio.html](https://github.com/user-attachments/files/22320290/Ara.bio.html)
+<img width="225" height="225" alt="alquran" src="https://github.com/user-attachments/assets/74b1c40e-3eb9-4475-96da-f59e7017d1b2" />
+![almuntaqaa](https://github.com/user-attachments/assets/edb35c58-5b46-4290-9360-5e15a9b70881)
+![alhujjah](https://github.com/user-attachments/assets/ac5f33ba-c600-432d-95e6-0be826d913e2)
+![aladab](https://github.com/user-attachments/assets/27db7253-0c80-4772-99b8-704f440bb67b)
